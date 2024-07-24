@@ -1,6 +1,6 @@
-baseURL = "https://www.example.com/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Integrity-data"
 theme = "hugo-hero-theme"
 
 [module]
