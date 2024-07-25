@@ -1,12 +1,12 @@
 ---
-title: 'Business Sales'
+title: '16s metabarcoding'
 date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-3.png'
+icon: 'services/barcode.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
-heroBackground: 'services/service1.jpg'
+heroHeading: '16s metabarcoding'
+heroSubHeading: 'El análisis de 16S metabarcoding identifica y cuantifica bacterias mediante la secuenciación de la región 16S del ADN ribosomal.'
+heroBackground: 'images/DNA.jpg'
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia

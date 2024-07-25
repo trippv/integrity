@@ -1,15 +1,16 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
-featured: true
+title: 'RNAseq'
+date: 2018-11-18T12:33:46+10:00
+icon: 'services/rnaseq.png'
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+featured: true
+weight: 1
+heroHeading: 'RNAseq'
+heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroBackground: 'images/dna.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 

@@ -1,12 +1,12 @@
 ---
-title: 'Business Advisory'
+title: 'RADseq'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: 'services/radseq.png'
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
+heroHeading: 'RADseq'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/dna.jpg'
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
