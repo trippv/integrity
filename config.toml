@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://integritydata.netlify.app/"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
 theme = "hugo-hero-theme"
