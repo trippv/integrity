@@ -1,0 +1,21 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "team" .)}}
+
+
+<section id="team">
+    <div class="container">
+        <div class="section-header">
+            <h2> </h2>
+        </div>
+        <div class="team-members">
+            {{ range where .Pages "Section" "team" }}
+                {{ partial "team-member.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

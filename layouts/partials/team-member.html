@@ -1,0 +1,31 @@
+<div class="team-member">
+    <div class="team-member-image">
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+    </div>
+    <div class="team-member-info">
+        <h2>{{ .Title }}</h2>
+        <h3>{{ .Params.role }}</h3>
+        <p>{{ .Params.bio }}</p>
+        {{ .Content }}
+    </div>
+</div>
+
+<style>
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+.team-member-image {
+    flex: 0 0 150px;
+    margin-right: 2rem;
+}
+.team-member-image img {
+    width: 100%;
+    border-radius: 50%;
+}
+.team-member-info {
+    flex: 1;
+}
+</style>

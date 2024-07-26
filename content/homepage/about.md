@@ -1,9 +1,9 @@
 ---
-title: 'Conocenos'
+title: 'Acerca de nosotros'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Conocenos'
+buttonLink: 'team'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Somo un equipo de tres desempleados con motivación

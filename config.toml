@@ -45,7 +45,7 @@ publishDir = "public"
 
 [[menu.main]]
     name = "Nosotros"
-    url = "/about/"
+    url = "/team/"
     weight = 3
 
 [[menu.main]]
@@ -57,6 +57,12 @@ publishDir = "public"
     name = "Contacto"
     url = "/contact/"
     weight = 4
+    
+#[[menu.main]]
+#    name = "Equipo"
+#    url = "/team/"
+#    weight = 2
+
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
