@@ -12418,7 +12418,7 @@ ol {
       display: block;
       width: 120px; } }
   .logo img {
-    width: 100%;
+    width: 75%;
     height: auto; }
   .logo a {
     display: block;

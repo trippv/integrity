@@ -6,4 +6,4 @@ bio: "Biologo Marino"
 image: "images/team/mike.jpeg"
 ---
 
-Cuenta con experiencia en RNAseq
+Cuenta con experiencia en RNAseq 
