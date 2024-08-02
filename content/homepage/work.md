@@ -1,6 +1,6 @@
 ---
 title: 'Hacemos de tu chamba nuestra agonia'
-weight: 1
+weight: 2
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Reportes'
 buttonLink: 'history'

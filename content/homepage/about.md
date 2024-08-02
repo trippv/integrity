@@ -1,7 +1,7 @@
 ---
 title: 'Acerca de nosotros'
-weight: 2
-background: ''
+weight: 3
+background: 'images/dna.jpg'
 button: 'Conocenos'
 buttonLink: 'team'
 ---
