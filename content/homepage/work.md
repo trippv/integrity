@@ -1,9 +1,9 @@
 ---
-title: 'Hacemos de tu chamba nuestra agonia'
+title: 'Nos adaptamos a tus necesidades'
 weight: 2
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Reportes'
-buttonLink: 'history'
+button: 'Ver ejemplos de reportes'
+buttonLink: 'reportes'
 ---
 
-Nos adaptamos a tus necesidades y generamos reportes como se te antoje
+En Integrity Data ofrecemos reportes, visualizaciones y archivos personalizados según las necesidades de nuestros clientes. Nos enfocamos en entregar soluciones adaptadas a cada proyecto.

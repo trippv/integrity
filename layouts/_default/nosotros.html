@@ -6,13 +6,13 @@
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "team" .)}}
 
 
-<section id="team">
+<section id="nosotros">
     <div class="container">
         <div class="section-header">
             <h2> </h2>
         </div>
         <div class="team-members">
-            {{ range where .Pages "Section" "team" }}
+            {{ range where .Pages "Section" "nosotros" }}
                 {{ partial "team-member.html" . }}
             {{ end }}
         </div>
