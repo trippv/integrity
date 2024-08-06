@@ -64,6 +64,7 @@ publishDir = "public"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+  services = "/servicios/:slug/"
 
 
 

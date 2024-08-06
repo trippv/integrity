@@ -6,4 +6,7 @@ bio: "Biologo Marino"
 image: "images/team/mike.jpeg"
 ---
 
-Cuenta con experiencia en RNAseq 
+Lista
+
+*   Miguel
+    *   Pavel

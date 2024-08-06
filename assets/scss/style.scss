@@ -56,3 +56,15 @@
 //     }
 //   }
 // }
+
+/* Estilos para las listas desordenadas (bullet points) */
+ul {
+    list-style-type: disc; /* Puedes cambiar 'disc' por 'circle', 'square', etc. */
+    margin-left: 20px; /* Ajusta el margen a la izquierda */
+}
+
+/* Estilos para los elementos de lista */
+li {
+    margin-bottom: 10px; /* Ajusta el margen inferior entre los elementos de la lista */
+    font-size: 1em; /* Ajusta el tamaño de la fuente */
+}

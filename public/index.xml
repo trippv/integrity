@@ -19,10 +19,10 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     
     <item>
       <title>RNAseq</title>
-      <link>https://integritydata.netlify.app/services/rnaseq/</link>
+      <link>https://integritydata.netlify.app/servicios/rnaseq/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://integritydata.netlify.app/services/rnaseq/</guid>
+      <guid>https://integritydata.netlify.app/servicios/rnaseq/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
  Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
@@ -50,28 +50,29 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     
     <item>
       <title>Miguel A. Tripp Valdez</title>
-      <link>https://integritydata.netlify.app/team/mike/</link>
+      <link>https://integritydata.netlify.app/nosotros/mike/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://integritydata.netlify.app/team/mike/</guid>
-      <description>Cuenta con experiencia en RNAseq</description>
+      <guid>https://integritydata.netlify.app/nosotros/mike/</guid>
+      <description>Cuenta con experiencia en RNAseq
+ Este es un bullet  </description>
     </item>
     
     <item>
       <title>Pavel E. Galindo Torres</title>
-      <link>https://integritydata.netlify.app/team/pavel/</link>
+      <link>https://integritydata.netlify.app/nosotros/pavel/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://integritydata.netlify.app/team/pavel/</guid>
+      <guid>https://integritydata.netlify.app/nosotros/pavel/</guid>
       <description>Mis intereses caen dentro del campo de la genómica y genómica funcional, particularmente en identificar genes y/o marcadores que puedan tener fenotipos de importancia para el sector de la acuicultura, y que como consecuencia permitan implementar programas de mejoramiento genético dirigidos por ejemplo a la resistencia genética a enfermedades, a genes asociados con el mejoramiento reproductivo, entre otros. Para ello, empleamos una seríe de herramientas de secuenciación y anotación de novo de transcritos y genomas, asi como herramientas de silenciamiento genético como el ARNi y de edición genómica (por disfuncíon de genes) como CRISPR/Cas.</description>
     </item>
     
     <item>
       <title>Ricardo Goméz Reyes</title>
-      <link>https://integritydata.netlify.app/team/ricardo/</link>
+      <link>https://integritydata.netlify.app/nosotros/ricardo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://integritydata.netlify.app/team/ricardo/</guid>
+      <guid>https://integritydata.netlify.app/nosotros/ricardo/</guid>
       <description>Mis intereses caen dentro del campo de la genómica y genómica funcional, particularmente en identificar genes y/o marcadores que puedan tener fenotipos de importancia para el sector de la acuicultura, y que como consecuencia permitan implementar programas de mejoramiento genético dirigidos por ejemplo a la resistencia genética a enfermedades, a genes asociados con el mejoramiento reproductivo, entre otros. Para ello, empleamos una seríe de herramientas de secuenciación y anotación de novo de transcritos y genomas, asi como herramientas de silenciamiento genético como el ARNi y de edición genómica (por disfuncíon de genes) como CRISPR/Cas.</description>
     </item>
     
@@ -95,10 +96,10 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     
     <item>
       <title>miRNA-seq</title>
-      <link>https://integritydata.netlify.app/services/mirnaseq/</link>
+      <link>https://integritydata.netlify.app/servicios/mirna-seq/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://integritydata.netlify.app/services/mirnaseq/</guid>
+      <guid>https://integritydata.netlify.app/servicios/mirna-seq/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
  Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
@@ -106,20 +107,20 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
     
     <item>
       <title>16s metabarcoding</title>
-      <link>https://integritydata.netlify.app/services/metabarcoding/</link>
+      <link>https://integritydata.netlify.app/servicios/16s-metabarcoding/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://integritydata.netlify.app/services/metabarcoding/</guid>
+      <guid>https://integritydata.netlify.app/servicios/16s-metabarcoding/</guid>
       <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
  Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut  Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
     </item>
     
     <item>
       <title>RADseq</title>
-      <link>https://integritydata.netlify.app/services/radseq/</link>
+      <link>https://integritydata.netlify.app/servicios/radseq/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://integritydata.netlify.app/services/radseq/</guid>
+      <guid>https://integritydata.netlify.app/servicios/radseq/</guid>
       <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
     </item>
     
