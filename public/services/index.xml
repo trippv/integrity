@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestro servicios on Hugo Hero Theme</title>
+    <link>https://integritydata.netlify.app/services/</link>
+    <description>Recent content in Nuestro servicios on Hugo Hero Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://integritydata.netlify.app/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RNAseq</title>
+      <link>https://integritydata.netlify.app/servicios/rnaseq/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://integritydata.netlify.app/servicios/rnaseq/</guid>
+      <description>Un análisis de RNAseq tiene el objetivo de cuantificar y comparar la expresión de genes a nivel de ARN mensajero (ARNm) en diferentes muestras o condiciones experimentales.
+Este análisis permite identificar qué genes están siendo activados o desactivados, y en qué medida, en respuesta a diferentes factores, como condiciones ambientales, tratamientos, estados de enfermedad o diferencias entre especies.
+A través de RNAseq, se puede obtener una visión integral del transcriptoma, que es el conjunto completo de transcripciones de ARN en una célula o tejido en un momento dado.</description>
+    </item>
+    
+    <item>
+      <title>miRNA-seq</title>
+      <link>https://integritydata.netlify.app/servicios/mirna-seq/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://integritydata.netlify.app/servicios/mirna-seq/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+ Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+    </item>
+    
+    <item>
+      <title>Metabarcoding</title>
+      <link>https://integritydata.netlify.app/servicios/metabarcoding/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://integritydata.netlify.app/servicios/metabarcoding/</guid>
+      <description>La revolución genómica ha cambiado la manera de medir la diversidad en la biosfera. La reacción en cadena de la polimerasa seguido de la secuenciación en plataformas de secuenciación de siguiente generación han surgido como un método confiable y escalable que permite el monitoreo de especies desde el nivel del ADN (ácido desoxiribonucleico) denominado &amp;ldquo;metabarcoding&amp;rdquo;.
+El análisis de metabarcoding usualmente es dirigido a la identificación de bacterias mediante la secuenciacion del ADN ribosomal 16S, sin embargo, esta estrategia ha sido adoptada para identificar otros metagenomas a partir de muestras de suelo, agua, tejidos, etc.</description>
+    </item>
+    
+    <item>
+      <title>RADseq</title>
+      <link>https://integritydata.netlify.app/servicios/radseq/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://integritydata.netlify.app/servicios/radseq/</guid>
+      <description>Los estudios de RADseq y ddRADseq permiten explorar la variabilidad genética entre individuos y poblaciones mediante la identificación de miles de marcadores genéticos distribuidos a lo largo del genoma.
+Este enfoque permite evaluar la estructura genética de las poblaciones, detectar diferencias en la frecuencia de alelos y revelar patrones de diferenciación genética. Esto permite la identificación de loci asociados con adaptaciones locales o rasgos específicos, proporcionando información clave sobre los mecanismos evolutivos, como la selección natural, la deriva genética y la migración, que influyen en la dinámica poblacional y en la capacidad de las especies para responder a cambios ambientales</description>
+    </item>
+    
+  </channel>
+</rss>
