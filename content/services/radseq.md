@@ -5,60 +5,32 @@ icon: 'services/radseq.png'
 featured: true
 draft: false
 heroHeading: 'RADseq'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroSubHeading: ''
 heroBackground: 'images/dna.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Los estudios de RADseq y ddRADseq permiten explorar la variabilidad genética entre individuos y poblaciones mediante la identificación de miles de marcadores genéticos distribuidos a lo largo del genoma. 
 
-## Inter pectore totidem
+Este enfoque permite evaluar la estructura genética de las poblaciones, detectar diferencias en la frecuencia de alelos y revelar patrones de diferenciación genética. Esto permite la identificación de loci asociados con adaptaciones locales o rasgos específicos, proporcionando información clave sobre los mecanismos evolutivos, como la selección natural, la deriva genética y la migración, que influyen en la dinámica poblacional y en la capacidad de las especies para responder a cambios ambientales
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
 
-## Novis hunc qua erat caecisque
+## Flujo de trabajo:
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+{{< figure src="/services/radseq_pipe.png" height="900px"  width="400px" style="display:block; margin-left:auto; margin-right:auto;">}}
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+## Este proyecto no incluye:
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+*   Extracción, purificación, preparación de librerias ni secuenciación de ARN
+*   Discusión ni interpretación de los resultados obtenidos 
 
-## Statuunt nais inponere tamen duodena aemulus mille
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+## Entregables:
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+*   Resultados de control de calidad de secuencias crudas y procesadas (html)
+*   Archivo con los genotipos neurales (**structure**/**genepop**)
+*   Archivo con los genotipos outliers (**structure**/**genepop**)
+*   Resultados de agrupamiento Bayesiano (Structure)
+*   Resultados de equilibrio de Hardy-Weinberg (txt)
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+

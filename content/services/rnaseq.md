@@ -6,52 +6,36 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'RNAseq'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroSubHeading: ''
 heroBackground: 'images/dna.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+Un análisis de RNAseq tiene el objetivo de cuantificar y comparar la expresión de genes a nivel de ARN mensajero (ARNm) en diferentes muestras o condiciones experimentales. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Este análisis permite identificar qué genes están siendo activados o desactivados, y en qué medida, en respuesta a diferentes factores, como condiciones ambientales, tratamientos, estados de enfermedad o diferencias entre especies. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+A través de RNAseq, se puede obtener una visión integral del transcriptoma, que es el conjunto completo de transcripciones de ARN en una célula o tejido en un momento dado. Esto proporciona información valiosa sobre los procesos biológicos subyacentes, las vías moleculares involucradas y puede ayudar en la identificación de biomarcadores y una mejor comprensión de la biología celular y molecular.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Flujo de trabajo:
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+{{< figure src="/services/rnaseq_pipe.jpg" height="800px"  width="600px" style="display:block; margin-left:auto; margin-right:auto;">}}
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Este proyecto no incluye:
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+*   Extracción, purificación, preparación de librerias ni secuenciación de ARN
+*   Discusión ni interpretación de los resultados obtenidos 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+## Entregables:
+
+*   Resultados de control de calidad de secuencias crudas y procesadas (html)
+*   Secuencias del ensamble de transcriptoma (fasta)
+*   Resultados de control de calidad del ensamble (BUSCO, Transrate) (pdf)
+*   Archivo de anotación del ensamble usando la base de datos Uniprot y pfam (xls)
+*   Gráfico de análisis multivariados (PCA; MDS) con los valores de expresión globales (eps/pdf)
+*   Lista de genes/transcritos expresados diferencialmente (xls).
+*   Gráficas de volcán, MA, heatmaps y patrones de expresión (eps/pdf)
+*   Resultados de enriquecimiento funcional (Gene Ontology; KEGG)(xls)
+*   Dashboard interactivo con genes expresados diferencialmente (html)

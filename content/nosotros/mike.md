@@ -9,4 +9,5 @@ image: "images/team/mike.jpeg"
 Lista
 
 *   Miguel
-    *   Pavel
+*   Pavel
+    *   Ricardo
