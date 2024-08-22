@@ -1,53 +1,36 @@
 ---
-title: '16s metabarcoding'
+title: 'Metabarcoding'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/barcode.png'
 featured: true
 draft: false
-heroHeading: '16s metabarcoding'
-heroSubHeading: 'El análisis de 16S metabarcoding identifica y cuantifica bacterias mediante la secuenciación de la región 16S del ADN ribosomal.'
+heroHeading: 'Metabarcoding'
+heroSubHeading: 'El análisis de metabarcoding identifica y cuantifica grupos biológicos cultivables y no cultivables mediante la secuenciación de regiones del ADN conocidas como códigos de barras.'
 heroBackground: 'images/DNA.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+La revolución genómica ha cambiado la manera de medir la diversidad en la biosfera. La reacción en cadena de la polimerasa seguido de la secuenciación en plataformas de secuenciación de siguiente generación han surgido como un método confiable y escalable que permite el monitoreo de especies desde el nivel del ADN (ácido desoxiribonucleico) denominado "metabarcoding".
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+El análisis de metabarcoding usualmente es dirigido a la identificación de bacterias mediante la secuenciacion del ADN ribosomal 16S, sin embargo, esta estrategia ha sido adoptada para identificar otros metagenomas a partir de muestras de suelo, agua, tejidos, etc. 
 
-## Geniti facinus praeruptam atris ab manus in
+Tras la amplificación y secuenciación de ADN se comparan con bibliotecas de referencia para la identificación taxonómica. El análisis computacional de secuencias consiste, habitualmente, de la construcción de unidades taxonómicas operativas moleculares (OTU), que difieren en menos de un umbral de disimilitud (comúnmente 3%) (Westcott SL, Schloss PD., 2015). No obstante, métodos independientes de la selección arbitraria de un umbral de disimilitud han surgido como un modelo para identificar Unidades operacionales a través de Variantes de Secuencia Unica (ASVs). Este método distingue amplicones que difieren en tan solo un nucleótido tras discriminar lecturas con errores de secuenciación y amplificación y lecturas biológicas (Callahan et al., 2016). El siguiente servicio ofrece una estrategía de análisis novedosa para la identificación de especies.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## Flujo de trabajo:
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+{{< figure src="/services/Metabarcoding-pipeline.png" height="380px"  width="650px" style="display:block; margin-left:auto; margin-right:auto;">}}
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+## Este proyecto no incluye:
 
-## Vidit si probetne vertitur
+*   Extracción, purificación, preparación de librerias ni secuenciación de ADN
+*   Discusión ni interpretación de los resultados obtenidos 
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+## Entregables:
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+*   Resultados de control de calidad de secuencias crudas y procesadas (**html**)
+*   Resultado de la indentificación de Variantes de Secuencias Unicas (**ASVs**)
+*   Resultado de la clasificación de ASVs (**xlsx**)
+*   Resultados de los análisis *post hoc* (**xlsx**)
+*   Base de datos relacional con resultados integrados (**xlsx**)
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+
+
