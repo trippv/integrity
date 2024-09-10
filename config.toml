@@ -1,6 +1,6 @@
 baseURL = "https://integritydata.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Integriy Data"
 theme = "hugo-hero-theme"
 publishDir = "public"
 
